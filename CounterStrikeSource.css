@@ -1,0 +1,46 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: #ffffff;
+  background-image: url("0618p9jga6501.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #cccccc;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(0, 0, 0);
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
