@@ -25,6 +25,10 @@ html {
   background-color: #cccccc;
 }
 
+textarea {
+    resize: none;
+}
+
 body {
   width: 600px;
   margin: 0 auto;
